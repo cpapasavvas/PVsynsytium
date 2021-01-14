@@ -1,5 +1,6 @@
 # PVsynsytium
-propagation of activity through the synsytium of fast spiking interneurons (through their gap junctions)
+Propagation of activity through the synsytium of fast spiking interneurons. 
+Related publication: https://www.eneuro.org/content/7/2/ENEURO.0387-19.2020 
 
 Running Neuron through Python
 
